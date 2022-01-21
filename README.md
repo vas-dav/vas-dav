@@ -1,8 +1,8 @@
 ### Hi there 👋! My name is Vasily Davydov!
 
-- I’m currently working on an application for Finnish Elementary Schools
-- I’m currently learning freeRTOS 
-- Ask me about studying IT in Finland and my own projects! I am always open to help people and learn new things by myself!
+- Second year CS-student majoring in Smart-IoT Devices
+- I’m currently learning arm ASM on Coretx M3 
+- Ask me about studying IT in Finland and my own projects! I am always open to people and like learning new things!
 - How to reach me: vasily.davydov@metropolia.fi
 - Fun fact: I like superhero movies (Iron Man is in my heart)
 
