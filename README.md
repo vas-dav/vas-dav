@@ -1,4 +1,4 @@
-### Hi there 👋! My name is Vasily Davydov!
+### :space_invader: Howdy! I am...
 
 - Second year IT-student majoring in Smart-IoT Devices
 - I’m currently learning arm ASM on Coretx M3 
